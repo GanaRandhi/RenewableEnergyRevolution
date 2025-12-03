@@ -1,0 +1,46 @@
+"Electricity statistics by Region, Technology, Data Type and Year",,,,
+,,,,
+Africa,Solar energy,Electricity Installed Capacity (MW),2024,18238.35
+,,Electricity Generation (GWh),2024,-
+Asia,Solar energy,Electricity Installed Capacity (MW),2024,1156559.03
+,,Electricity Generation (GWh),2024,-
+Central America and the Caribbean,Solar energy,Electricity Installed Capacity (MW),2024,5375.54
+,,Electricity Generation (GWh),2024,-
+Eurasia,Solar energy,Electricity Installed Capacity (MW),2024,23336.83
+,,Electricity Generation (GWh),2024,-
+Europe,Solar energy,Electricity Installed Capacity (MW),2024,338607.37
+,,Electricity Generation (GWh),2024,-
+Middle East,Solar energy,Electricity Installed Capacity (MW),2024,23577.57
+,,Electricity Generation (GWh),2024,-
+North America,Solar energy,Electricity Installed Capacity (MW),2024,195360.56
+,,Electricity Generation (GWh),2024,-
+Oceania,Solar energy,Electricity Installed Capacity (MW),2024,36950.79
+,,Electricity Generation (GWh),2024,-
+South America,Solar energy,Electricity Installed Capacity (MW),2024,68300.40
+,,Electricity Generation (GWh),2024,-
+,,,,
+"The power capacity data shown in these tables represents the maximum net generating capacity of power plants and other installations used to produce electricity. For most countries and technologies, the data reflects the capacity installed and connected at the end of the calendar year. Electricity generation (GWh) is the gross electricity produced by electricity plants, combined heat and power plants (CHP) and distributed generators measured at the output terminals of generation. It includes on-grid and off-grid generation, and it also includes the electricity self-consumed in energy industries; not only the electricity fed into the grid (net electricity production). 2024 electricity generation is preliminary and not accurate at aggregate levels.",,,,
+,,,,
+Latest update:,,,,
+20250723 08:00,,,,
+,,,,
+Source:,,,,
+"IRENA (2025), Renewable Energy Statistics 2025, International Renewable Energy Agency (IRENA), Abu Dhabi",,,,
+,,,,
+,,,,
+,,,,
+Units:,,,,
+MW/GWh,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Database:,,,,
+IRENA Renewable Energy Statistics database,,,,
+,,,,
+Internal reference code:,,,,
+ELEC-R,,,,
