@@ -1,0 +1,132 @@
+"Heat generation (TJ) by Country/area, Technology, Grid connection and Year",,,,
+,,,,
+Albania,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Armenia,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Austria,Solar thermal energy,Heat (Commercial),2023,129.225
+,,Combined Heat and Power (CHP),2023,-
+Azerbaijan,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Belarus,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Belgium,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Bosnia and Herzegovina,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Bulgaria,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Canada,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+China,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Croatia,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Cyprus,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Czechia,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Denmark,Solar thermal energy,Heat (Commercial),2023,2621.490
+,,Combined Heat and Power (CHP),2023,-
+Estonia,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Finland,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+France,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Germany,Solar thermal energy,Heat (Commercial),2023,125.000
+,,Combined Heat and Power (CHP),2023,-
+Greece,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Hungary,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Iceland,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Italy,Solar thermal energy,Heat (Commercial),2023,13.432
+,,Combined Heat and Power (CHP),2023,-
+Japan,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Kazakhstan,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Kosovo,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Kyrgyzstan,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Latvia,Solar thermal energy,Heat (Commercial),2023,30.838
+,,Combined Heat and Power (CHP),2023,-
+Lithuania,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Luxembourg,Solar thermal energy,Heat (Commercial),2023,0.059
+,,Combined Heat and Power (CHP),2023,-
+Malta,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Netherlands (Kingdom of the),Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+New Zealand,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+North Macedonia,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Norway,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Poland,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Portugal,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Republic of Korea (the),Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Republic of Moldova (the),Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Romania,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Russian Federation (the),Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Saint Pierre and Miquelon,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Serbia,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Slovakia,Solar thermal energy,Heat (Commercial),2023,2.000
+,,Combined Heat and Power (CHP),2023,-
+Slovenia,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Sweden,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Switzerland,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Tajikistan,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Türkiye,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Ukraine,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+United Kingdom of Great Britain and Northern Ireland (the),Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+United States of America (the),Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+Uzbekistan,Solar thermal energy,Heat (Commercial),2023,-
+,,Combined Heat and Power (CHP),2023,-
+,,,,
+"Heat generation (TJ) is the total heat produced by the installation and includes the heat used by the installation's auxiliaries that use a hot fluid (liquid fuel heating, etc.) and losses in the installation/network heat exchanges, as well as heat from chemical processes used as a primary energy form. For autoproducers, the production of heat covers only the heat sold to third parties; thus, gross heat production for autoproducers is equal to net heat production. This heat is not to be confused with heat consumption. Producer type CHP is short for Combined Heat and Power producer.",,,,
+,,,,
+Latest update:,,,,
+20250723 08:00,,,,
+,,,,
+Source:,,,,
+"IRENA (2025), Renewable energy statistics 2025, International Renewable Energy Agency (IRENA), Abu Dhabi",,,,
+,,,,
+,,,,
+,,,,
+Units:,,,,
+TJ,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Database:,,,,
+IRENA Renewable Energy Statistics database,,,,
+,,,,
+Internal reference code:,,,,
+HEATGEN,,,,
